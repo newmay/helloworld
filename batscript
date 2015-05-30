@@ -1,2 +1,4 @@
 dir
+echo test
+mkdir a1
 
